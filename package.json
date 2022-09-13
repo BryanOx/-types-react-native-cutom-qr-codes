@@ -1,0 +1,13 @@
+{
+  "name": "@types/react-native-custom-qr-codes",
+  "version": "1.0.0",
+  "description": "Types declaration for the library of React Native Custom QR Codes.",
+  "main": "node_modules/react-native-custom-qr-codes/index.js",
+  "types": "./lib/index.d.ts",
+  "author": "Bryan Oxley",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react-native-custom-qr-codes": "^2.0.0"
+  }
+}
